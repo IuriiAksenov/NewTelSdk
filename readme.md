@@ -39,4 +39,4 @@ SDK состоит из следующих модулей:
 
 [official-call-password]: https://new-tel.net/uslugi/call-password/
 [support-email]: mailto:iurii.aksenov@yandex.ru
-[issues]: https://github.com/IuriiAksenov/ProstorSmsSdk/issues
+[issues]: https://github.com/IuriiAksenov/NewTelSdk/issues
