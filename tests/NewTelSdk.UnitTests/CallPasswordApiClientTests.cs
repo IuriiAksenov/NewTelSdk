@@ -14,7 +14,7 @@ namespace NewTelSdk.UnitTests
         }
 
         [Fact]
-        public async Task CallPasswordCall_ValidData_ReturnSuccess()
+        public async Task Sending_password_with_valid_data_is_success()
         {
             var response = await _client.StartPasswordCallAsync(TestApiData.DestinationNumber, TestApiData.Pin);
 
